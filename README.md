@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Overview  
+## Overview  
 This Android application demonstrates the following core Android concepts:
 
 - Multi-activity navigation  
@@ -19,7 +19,7 @@ This Android application demonstrates the following core Android concepts:
 
 ---
 
-## 🧭 Application Flow  
+## Application Flow  
 
 ### **1. Login Screen (MainActivity)**  
 - Email + Password fields  
@@ -56,7 +56,7 @@ This Android application demonstrates the following core Android concepts:
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **Kotlin**  
 - **Android Studio (Hedgehog/Koala)**  
 - **RecyclerView**  
