@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/tvWelcome" android:text="Welcome" android:textSize="18sp" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/btnProfile" android:text="Profile" android:layout_marginTop="16dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/btnCountries" android:text="Countries List" android:layout_marginTop="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/btnSettings" android:text="Settings" android:layout_marginTop="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/btnLogout" android:text="Logout" android:layout_marginTop="16dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
